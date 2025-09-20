@@ -15,3 +15,5 @@ Imagin you have a 2 hours video and you want to bookmark spezific parts of it to
 ```bash
 git clone git@github.com:mork02/youtube-bookmark-extension.git
 ```
+
+Special thanks to: https://www.youtube.com/watch?v=0n809nd4Zu4
